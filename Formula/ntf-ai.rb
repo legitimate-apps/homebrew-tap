@@ -3,8 +3,8 @@ class NtfAi < Formula
 
   desc "Phone notifications and replies for AI agents, over the ntfy protocol"
   homepage "https://ntf-ai.app"
-  url "https://files.pythonhosted.org/packages/e2/92/175696fae3ec94f7682480b388beee3dc355f744bcce4efab82eb2e69faa/ntf_ai-0.4.0.tar.gz"
-  sha256 "caa71ec03cec50b9c011e53e1722d3b8e9441399dc5a95391051ffa1d64da40c"
+  url "https://files.pythonhosted.org/packages/1b/5d/e98076253f5f4f3a2b4050df9b1aedf9c923c4d2ad9bbed50313a2a159bf/ntf_ai-0.4.1.tar.gz"
+  sha256 "3164b793a4df60a0b79634d3f8239a02b7683507c6d74ea82f09758476dd1b66"
   license "MIT"
 
   depends_on "python@3.14"
